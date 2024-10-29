@@ -4,3 +4,4 @@ Your team just received a notification that the latest deployment failed. The de
 ## Objective
 Find and roll back the commit that introduced the bug to restore a stable version of the application.
 
+**NOTE:** Kindly ignore the github workflows file, no need to compile it for puzzle-1. 
